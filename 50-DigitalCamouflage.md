@@ -7,6 +7,7 @@ Hints:
   - If you think you found the flag, but it doesn't work, consider that the data may be encrypted.
 
 Solution:
+
 Open the "data.pcap" file in "WireShark"
 Set filter to: http.request.method == "POST"
 
@@ -22,8 +23,12 @@ HTML Form URL Encoded: application/x-www-form-urlencoded
     Form item: "pswrd" = "UldPRVRNOWZhWQ=="
 ```
 
+Decode the base64 encoded password for the flag
+
 ```
 $ python
 >>> "UldPRVRNOWZhWQ==".decode("base64")
 'RWOETM9faY'
 ```
+
+flag{RWOETM9faY}
