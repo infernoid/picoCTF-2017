@@ -10,6 +10,7 @@ Solution:
 Open the "data.pcap" file in "WireShark"
 Set filter to: http.request.method == "POST"
 
+```
 Frame 65: 109 bytes on wire (872 bits), 109 bytes captured (872 bits)
 Ethernet II, Src: PcsCompu_38:2c:5c (08:00:27:38:2c:5c), Dst: PcsCompu_3d:47:5d (08:00:27:3d:47:5d)
 Internet Protocol Version 4, Src: 10.0.0.5, Dst: 10.0.0.1
@@ -19,6 +20,7 @@ Hypertext Transfer Protocol
 HTML Form URL Encoded: application/x-www-form-urlencoded
     Form item: "userid" = "sullivanm"
     Form item: "pswrd" = "UldPRVRNOWZhWQ=="
+```
 
 ```
 $ python
