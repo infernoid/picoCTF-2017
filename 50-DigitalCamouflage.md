@@ -2,13 +2,13 @@
 We need to gain access to some routers. Let's try and see if we can find the password in the captured network
 data: data.pcap.
 
-Hints:
+**Hints:**
   - It looks like someone logged in with their password earlier. Where would log in data be located in a network capture?
   - If you think you found the flag, but it doesn't work, consider that the data may be encrypted.
 
-Solution:
-Open the data.pcap file in WireShark
-Set filter to: http.request.method == "POST"
+**Solution:**
+Open the *'data.pcap'* file in *'WireShark'*
+Set filter to: *http.request.method == "POST"*
 
 ```
 Frame 65: 109 bytes on wire (872 bits), 109 bytes captured (872 bits)
@@ -23,7 +23,6 @@ HTML Form URL Encoded: application/x-www-form-urlencoded
 ```
 
 Decode the base64 encoded password for the flag
-
 ```
 $ python
 >>> "UldPRVRNOWZhWQ==".decode("base64")
