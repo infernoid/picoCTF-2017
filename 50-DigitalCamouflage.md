@@ -6,10 +6,10 @@ data: data.pcap.
   - It looks like someone logged in with their password earlier. Where would log in data be located in a network capture?
   - If you think you found the flag, but it doesn't work, consider that the data may be encrypted.
 
-**Solution:**  
+**Solution:**
+
 Open the *data.pcap* file in *WireShark*  
 Set filter to: *http.request.method == "POST"*
-
 ```
 Frame 65: 109 bytes on wire (872 bits), 109 bytes captured (872 bits)
 Ethernet II, Src: PcsCompu_38:2c:5c (08:00:27:38:2c:5c), Dst: PcsCompu_3d:47:5d (08:00:27:3d:47:5d)
