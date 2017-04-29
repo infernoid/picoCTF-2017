@@ -7,7 +7,7 @@ data: data.pcap.
   - If you think you found the flag, but it doesn't work, consider that the data may be encrypted.
 
 **Solution:**
-Open the *'data.pcap'* file in *'WireShark'*
+Open the *data.pcap* file in *WireShark*
 Set filter to: *http.request.method == "POST"*
 
 ```
