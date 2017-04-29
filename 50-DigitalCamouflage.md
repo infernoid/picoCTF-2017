@@ -8,7 +8,7 @@ data: data.pcap.
 
 **Solution:**
 
-Open the data.pcap file in WireShark
+Open the data.pcap file in WireShark  
 Set filter to: http.request.method == "POST"
 ```
 Frame 65: 109 bytes on wire (872 bits), 109 bytes captured (872 bits)
