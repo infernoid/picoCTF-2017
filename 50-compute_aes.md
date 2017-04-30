@@ -8,6 +8,10 @@ You found this clue laying around. Can you decrypt it?
 
 **Solution:**
 
+Decrypt the base64 encoded key and ciphertext
+and decrypt the AES ecrypted ciphertext with python
+computeAES.py:
+
 ```python
 #Encrypted with AES in ECB mode. All values base64 encoded
 from Crypto.Cipher import AES
