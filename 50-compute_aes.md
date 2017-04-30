@@ -8,8 +8,8 @@ You found this clue laying around. Can you decrypt it?
 
 **Solution:**
 
-Decrypt the base64 encoded key and ciphertext
-and decrypt the AES ecrypted ciphertext with python
+Decrypt the base64 encoded key and ciphertext  
+and decrypt the AES ecrypted ciphertext with python  
 computeAES.py:
 
 ```python
