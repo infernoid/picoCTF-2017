@@ -8,8 +8,10 @@ A wizard (he seemed kinda odd...) handed me [this](https://webshell2017.picoctf.
 
 **Solution:**
 
-http://quipqiup.com/  
+Decrypt the substitution cyper: http://quipqiup.com/
+```
 MIT YSAU OL OYGFSBDGRTKFEKBHMGCALSOQTMIOL.  
 THE FLAG IS IFONLYMODERNCRYPTOWASLIKETHIS.  
+```
 
 **Flag:** IFONLYMODERNCRYPTOWASLIKETHIS
