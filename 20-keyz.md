@@ -9,6 +9,7 @@ While webshells are nice, it'd be nice to be able to login directly. To do so, p
 
 **Solution:**
 
+Use ssh to connect to shell2017.picoctf.com
 ```
 $ ssh shell2017.picoctf.com
 Congratulations on setting up SSH key authentication!

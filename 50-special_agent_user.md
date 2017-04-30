@@ -23,7 +23,7 @@ Hypertext Transfer Protocol
 ...
 ```
 
-The flag is in the user agent string
+The browser and browser version are in the user agent string
 ```
 Frame 90: 259 bytes on wire (2072 bits), 259 bytes captured (2072 bits)
 Ethernet II, Src: PcsCompu_e5:81:e1 (08:00:27:e5:81:e1), Dst: PcsCompu_b2:db:ff (08:00:27:b2:db:ff)
