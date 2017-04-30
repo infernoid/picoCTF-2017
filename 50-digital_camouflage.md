@@ -31,6 +31,4 @@ $ python
 'RWOETM9faY'
 ```
 
-**Flag:**
-
-flag{RWOETM9faY}
+**Flag:** flag{RWOETM9faY}
