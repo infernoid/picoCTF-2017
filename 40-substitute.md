@@ -8,8 +8,8 @@ A wizard (he seemed kinda odd...) handed me [this](https://webshell2017.picoctf.
 
 **Solution:**
 
-http://quipqiup.com/
-MIT YSAU OL OYGFSBDGRTKFEKBHMGCALSOQTMIOL.
-THE FLAG IS IFONLYMODERNCRYPTOWASLIKETHIS.
+http://quipqiup.com/  
+MIT YSAU OL OYGFSBDGRTKFEKBHMGCALSOQTMIOL.  
+THE FLAG IS IFONLYMODERNCRYPTOWASLIKETHIS.  
 
 **Flag:** IFONLYMODERNCRYPTOWASLIKETHIS
