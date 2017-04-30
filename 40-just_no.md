@@ -57,6 +57,8 @@ $ cd problems/276fc27f3ef921f0e2f0f75ba95c9e60
 $ echo "yes" > auth
 $ /problems/276fc27f3ef921f0e2f0f75ba95c9e60/justno
 Oh. Well the auth file doesn't say no anymore so... Here's the flag: 8661ca23ef68adc41d407817b8656dd0
+
+$ rm -R problems
 ```
 
 **Flag:** 8661ca23ef68adc41d407817b8656dd0
