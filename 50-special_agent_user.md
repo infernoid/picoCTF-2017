@@ -35,4 +35,4 @@ Hypertext Transfer Protocol
 ...
 ```
 
-**Flag:** flag{Chrome 36.0.1985}
+**Flag:** Chrome 36.0.1985
