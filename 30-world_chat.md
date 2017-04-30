@@ -20,7 +20,9 @@ $ nc shell2017.picoctf.com 38798 | grep flag
 15:27:16 ihazflag: that guy from that movie gives me hope to make a rasberry pie
 15:27:16 personwithflag: We give me hope for the future of humanity
 ^C (Ctrl+C)
+```
 
+```
 $ nc shell2017.picoctf.com 38798 | grep flagperson
 15:30:26 flagperson: this is part 1/8 of the flag - 3572
 15:30:29 flagperson: this is part 2/8 of the flag - dd03
