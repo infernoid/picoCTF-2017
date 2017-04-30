@@ -4,7 +4,8 @@ We can get into the Administrator's computer with a browser exploit. But first, 
 
 **Hints:**
 
-- Where can we find information on the browser in networking data? Maybe try reading up on user-agent strings.
+- Where can we find information on the browser in networking data?
+  Maybe try reading up on user-agent strings.
 
 **Solution:**
 
