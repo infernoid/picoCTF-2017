@@ -12,6 +12,7 @@ We found this annoyingly named directory tree starting at /problems/4052472b84e3
 $ ssh shell2017.picoctf.com
 $ cd /problems/4052472b84e355d1e1a42f5899fe0e76
 $ find -name flag
+./trunk/trunkef9b/trunk99e1/trunk54f4/trunk61be/trunk89be/trunk87bf/trunkb252/flag
 $ cat ./trunk/trunkef9b/trunk99e1/trunk54f4/trunk61be/trunk89be/trunk87bf/trunkb252/flag
 aae8c400f845fd47fdbb6a77ba027771
 ```
